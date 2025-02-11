@@ -19,6 +19,9 @@ Develop PowerShell scripts that automate common IT tasks such as user account ma
   - Use winget, choco, or msiexec for deployments
     - Example: Deploying Notepad++ across multiple endpoints
 - Scheduled Task Automation
-  - Run system wide cleanups of previously made scripts ie. Inactive accounts, weak passwords, check for updates
+  - Run system wide cleanups of previously made scripts
+    -  Inactive accounts
+    -  Weak passwords
+    -  Compile all medium and high risk alerts into a weekly report
   - Automate script execution via Task Scheduler
   - Ensure the script runs on startup or at scheduled intervals
