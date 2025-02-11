@@ -10,6 +10,7 @@ Develop PowerShell scripts that automate common IT tasks such as user account ma
     - Assigns group memberships
     - Scans for inactive accounts and removes them
     - Finds weak passwords and enforce creation of new password
+    - Find passwords that havent been changed in 90 days and require them to be updated
 - Automated Log Collection
   - Script to fetch logs from multiple machines remotely
   - Store logs in a centralized location
